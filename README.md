@@ -1,0 +1,1 @@
+# Beispiel einer simplen Statemachine
